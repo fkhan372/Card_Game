@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * This class models a simple card guessing game
  * 
- * @author Paul Bonenfant
+ * @author Paul Bonenfant, Faisal Khan
  */
 public class CardGame {
 
@@ -102,7 +102,5 @@ class Card {
     public void setValue(int value) {
         this.value = value;
     }
-   
-   
     
 }
